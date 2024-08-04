@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Press Start 2P', sans-serif;
+    margin: 0px;
+    padding-top: 14px;
+    color: #fff;
+    text-shadow: 5px 5px 0px black;
+   }
+
+h2 {display: inline-block;
+    background-color: #3f3a3b;
+    opacity: 1;
+    padding-top: 36px;
+    padding-bottom: 36px;
+    padding-left: 70px;
+    padding-right: 70px;
+    box-shadow: 7px 7px 0px #000;
+    margin-top: 130px;
+    margin-left: 90px;
+    margin-right: 80px;
+    position: relative;
+    bottom: 1100px;
+    font-family: 'Press Start 2P', sans-serif;
+    color: #FF0025;
+    text-shadow: 5px 5px 0px #000;
+    }

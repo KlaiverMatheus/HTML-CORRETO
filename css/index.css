@@ -8,16 +8,16 @@ header {
     padding-top: 10px;
     padding-bottom: 10px;        
 }
-h1 {
-    font-family: 'Press Start 2P', sans-serif;
-    margin: 0px;
-    padding-top: 14px;
-    color: #fff;
-    text-shadow: 5px 5px 0px black;
-    
-    }
 
-
+.botaos { 
+    display: inline-block;
+    background-color: #ff0025;   
+    padding: 18px 20px;
+    box-shadow: 5px 5px 0px black;
+    position: relative;
+    right: 620px;
+    bottom: 970px;
+}
 
 a { display: inline-flex;
     align-items: center;
